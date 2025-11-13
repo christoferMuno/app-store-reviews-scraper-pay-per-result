@@ -1,0 +1,4 @@
+requests==2.28.1
+
+🐺 App Store Reviews Scraper | Pay Per Result/.keep
+textThis folder contains non-code assets such as sample inputs and outputs for review processing.
